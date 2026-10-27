@@ -1,0 +1,15 @@
+.fa-eye {
+    position: absolute;
+    top: 39%;
+    right: 2.5%;
+    cursor: pointer;
+    
+}
+
+
+.fa-eye-slash{
+    position:absolute;
+    top: 39%;
+    right: 2.5%;
+    cursor: pointer;
+}

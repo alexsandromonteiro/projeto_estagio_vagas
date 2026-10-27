@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Playpen+Sans&display=swap');
+
+body {
+    font-family: 'PlaypenSans', cursive;
+}
+
+#btn-profile-icon {
+    background: none;
+    border: 0;
+}
+
+.bg-gray-pallet {
+    background-color: #2B2D42;
+}
+
+.bg-red-pallet {
+    background-color: #EF233C;
+}
+
+.bg-white-pallet {
+    background-color: #EDF2F4;
+}
+
+.card-vaga {
+    background-color: #2B2D42;
+    color: white;
+}
+
+footer {
+    color: white;
+    background-color: #2B2D42;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+
+hr {
+    color: #2B2D42;
+}
+
+#icon-profile-btn {
+    position: absolute;
+    border: none;
+}
+
+#icon-banner-btn {
+    position: absolute;
+    border: none;
+}
+
+button {
+    background-color: transparent;
+    border: 1px solid #2B2D42;
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 0.375rem;
+}
+
+button:hover {
+    background-color: #2B2D42;
+    color: white;
+}
+
+/*
+Paleta:
+#D90429
+#EF233C
+#EDF2F4
+#8D99AE
+#2B2D42
+
+https://www.facebook.com/fatecbpaulista
+https://www.instagram.com/fatecbpaulista/
+https://twitter.com/fatecbpaulista
+
+® Fatec Bragança Paulista - 2023
+
+*/
